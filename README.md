@@ -1,42 +1,118 @@
-## Olá! Eu sou Rinelly Vasconcelos 👋
+<div align="center">
 
-- 👩‍💻 Estou em transição de carreira
-- 🌱 Atualmente estou estudando React
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=180&text=&fontAlign=50&fontAlignY=40&color=0:6C2BD9,50:A855F7,100:EC4899&animation=fadeIn"/>
 
+<br>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rinelly&show_icons=true&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
+# Olá, eu sou <span style="color:#A855F7;">Rinelly</span> 😄
 
-<div style="display: inline_block"><br>
-  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Rafa-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+### Front-end • Dados • IA
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Quicksand&weight=500&size=22&duration=3000&pause=1000&color=C084FC&center=true&vCenter=true&width=700&lines=Transformando+ideias+em+experiências+digitais+modernas+🚀;Apaixonada+por+Tecnologia;Sempre+aprendendo+algo+novo"/>
+
 </div>
 
-##
+<br>
 
-<div> 
-  <a href="https://instagram.com/rinellyvasconcelos" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-<!--  <a href="https://discord.gg/ri.monique" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>  -->
-  <a href = "mailto:rinellyvasconcelos@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/rinelly-vasconcelos-989297142" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+# 👾 Sobre mim
+
+<div>
+
+```javascript
+
+const rinelly = {
+
+  localização: "Maceió - AL",
+
+  formação: "Análise e Desenvolvimento de Sistemas",
+
+  pós_graduação: "Ciência de Dados e IA",
+
+  atuando_com: [
+
+    "Front-end",
+
+    "Interfaces modernas",
+
+    "Experiência do usuário"
+
+  ],
+
+  estudando: [
+
+    "Python",
+
+    "Data Science",
+
+    "Inteligência Artificial"
+
+  ],
+
+  objetivo: "Criar soluções modernas e intuitivas"
+
+}
+
+```
+</div>
+  
+<br>
+
+# 🚀 Tecnologias & Ferramentas
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=js,ts,react,html,css,python,git,github,vscode&theme=dark"/>
+
 </div>
 
+<br>
 
+# 📊 Estatísticas GitHub
 
+<div align="center">
 
-<!--
-**Rinelly/Rinelly** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Rinelly&theme=tokyonight"/>
 
-Here are some ideas to get you started:
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Rinelly&theme=tokyonight"/>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</div>
+
+<br>
+
+<div align="center">
+
+<img width="98%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Rinelly&theme=tokyonight"/>
+
+</div>
+
+<br>
+
+# 🌐 Conecte-se comigo
+
+<div align="center">
+
+<a href="https://instagram.com/nellyintech" target="_blank">
+<img src="https://img.shields.io/badge/Instagram-1a1b27?style=for-the-badge&logo=instagram&logoColor=C084FC"/>
+</a>
+
+<a href="mailto:rinellyvasconcelos@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-1a1b27?style=for-the-badge&logo=gmail&logoColor=F87171"/>
+</a>
+
+<a href="https://www.linkedin.com/in/rinelly-vasconcelos-989297142" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-1a1b27?style=for-the-badge&logo=linkedin&logoColor=60A5FA"/>
+</a>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="https://komarev.com/ghpvc/?username=Rinelly&label=Visualizações&color=A855F7&style=flat"/>
+
+</div>
+
+<br>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=140&section=footer&color=0:6C2BD9,50:A855F7,100:EC4899"/>
