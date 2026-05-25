@@ -111,6 +111,3 @@ const rinelly = {
 
 </div>
 
-<br>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=140&section=footer&color=0:6C2BD9,50:A855F7,100:EC4899"/>
