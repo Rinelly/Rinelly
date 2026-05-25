@@ -1,18 +1,19 @@
 <div align="center">
+<img width="1499" height="266" alt="image" src="https://github.com/user-attachments/assets/c9842b8d-7d80-4fa0-b254-480c4df6db2c" />
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=180&text=&fontAlign=50&fontAlignY=40&color=0:6C2BD9,50:A855F7,100:EC4899&animation=fadeIn"/>
+<p>
+  <code><b><span style="color: #6C2BD9;">Front-end</span></b></code> • 
+  <code><b><span style="color: #6C2BD9;">Dados</span></b></code> • 
+  <code><b><span style="color: #6C2BD9;">IA</span></b></code>
+</p>
 
-<h1 style="color: #A855F7;">Olá, eu sou Rinelly 😄</h1>
-
-### Front-end • Dados • IA
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Quicksand&weight=500&size=22&duration=3000&pause=1000&color=C084FC&center=true&vCenter=true&width=700&lines=Transformando+ideias+em+experiências+digitais+modernas+🚀;Apaixonada+por+Tecnologia;Sempre+aprendendo+algo+novo"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Quicksand&weight=500&size=22&duration=3000&pause=1000&color=451d7f&center=true&vCenter=true&width=700&lines=Transformando+ideias+em+experiências+digitais+modernas+;Apaixonada+por+Tecnologia;Sempre+aprendendo+algo+novo"/>
 
 </div>
 
 <br>
 
-# 👾 Sobre mim
+<img src="https://capsule-render.vercel.app/api?type=transparent&height=45&text=👾+Sobre+mim&fontSize=24&fontColor=451d7f&fontAlign=10&fontAlignY=50"/>
 
 <div>
 
@@ -55,7 +56,7 @@ const rinelly = {
   
 <br>
 
-# 🚀 Tecnologias & Ferramentas
+<img src="https://capsule-render.vercel.app/api?type=transparent&height=45&text=Tecnologias&fontSize=24&fontColor=451d7f&fontAlign=8&fontAlignY=50"/>
 
 <div align="center">
 
@@ -64,8 +65,8 @@ const rinelly = {
 </div>
 
 <br>
+<img src="https://capsule-render.vercel.app/api?type=transparent&height=45&text=Estatíscas+GitHub&fontSize=24&fontColor=451d7f&fontAlign=12&fontAlignY=50"/>
 
-# 📊 Estatísticas GitHub
 
 <div align="center">
 
@@ -84,8 +85,7 @@ const rinelly = {
 </div>
 
 <br>
-
-# 🌐 Conecte-se comigo
+<img src="https://capsule-render.vercel.app/api?type=transparent&height=45&text=Conecte-se+comigo&fontSize=24&fontColor=451d7f&fontAlign=13&fontAlignY=50"/>
 
 <div align="center">
 
