@@ -13,7 +13,7 @@
 
 <br>
 
-<img src="https://capsule-render.vercel.app/api?type=transparent&height=45&text=👾+Sobre+mim&fontSize=24&fontColor=451d7f&fontAlign=10&fontAlignY=50"/>
+<img src="https://capsule-render.vercel.app/api?type=transparent&height=45&text=👾+Sobre+mim&fontSize=18&fontColor=451d7f&fontAlign=10&fontAlignY=50"/>
 
 <div>
 
@@ -44,19 +44,21 @@ const rinelly = {
   
 <br>
 
-<img src="https://capsule-render.vercel.app/api?type=transparent&height=45&text=Tecnologias&fontSize=24&fontColor=451d7f&fontAlign=8&fontAlignY=50"/>
+<img src="https://capsule-render.vercel.app/api?type=transparent&height=45&text=🚀+Tecnologias&fontSize=18&fontColor=451d7f&fontAlign=8&fontAlignY=50"/>
 
-<div align="center">
+<div align="start">
 
 <img src="https://skillicons.dev/icons?i=js,ts,react,html,css,python,git,github,vscode&theme=dark"/>
 
 </div>
 
 <br>
-<img src="https://capsule-render.vercel.app/api?type=transparent&height=45&text=Estatíscas+GitHub&fontSize=24&fontColor=451d7f&fontAlign=12&fontAlignY=50"/>
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=transparent&height=45&text=📊+Estatíscas+GitHub&fontSize=18&fontColor=451d7f&fontAlign=12&fontAlignY=50"/>
 
 
-<div align="center">
+<div align="start">
 
 <img width="30%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Rinelly&theme=tokyonight"/>
 
@@ -66,16 +68,16 @@ const rinelly = {
 
 <br>
 
-<div align="center">
+<div align="start">
 
 <img width="60%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Rinelly&theme=tokyonight"/>
 
 </div>
 
 <br>
-<img src="https://capsule-render.vercel.app/api?type=transparent&height=45&text=Conecte-se+comigo&fontSize=24&fontColor=451d7f&fontAlign=13&fontAlignY=50"/>
+<img src="https://capsule-render.vercel.app/api?type=transparent&height=45&text=🌐+Conecte-se+comigo&fontSize=18&fontColor=451d7f&fontAlign=13&fontAlignY=50"/>
 
-<div align="center">
+<div align="start">
 
 <a href="https://instagram.com/nellyintech" target="_blank">
 <img src="https://img.shields.io/badge/Instagram-1a1b27?style=for-the-badge&logo=instagram&logoColor=C084FC"/>
@@ -93,7 +95,7 @@ const rinelly = {
 
 <br>
 
-<div align="center">
+<div align="start">
 
 <img src="https://komarev.com/ghpvc/?username=Rinelly&label=Visualizações&color=A855F7&style=flat"/>
 
