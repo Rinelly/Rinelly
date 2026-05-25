@@ -2,9 +2,7 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=180&text=&fontAlign=50&fontAlignY=40&color=0:6C2BD9,50:A855F7,100:EC4899&animation=fadeIn"/>
 
-<br>
-
-# Olá, eu sou <span style="color:#A855F7;">Rinelly</span> 😄
+<h1 style="color: #A855F7;">Olá, eu sou Rinelly 😄</h1>
 
 ### Front-end • Dados • IA
 
@@ -71,9 +69,9 @@ const rinelly = {
 
 <div align="center">
 
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Rinelly&theme=tokyonight"/>
+<img width="30%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Rinelly&theme=tokyonight"/>
 
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Rinelly&theme=tokyonight"/>
+<img width="30%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Rinelly&theme=tokyonight"/>
 
 </div>
 
@@ -81,7 +79,7 @@ const rinelly = {
 
 <div align="center">
 
-<img width="98%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Rinelly&theme=tokyonight"/>
+<img width="60%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Rinelly&theme=tokyonight"/>
 
 </div>
 
