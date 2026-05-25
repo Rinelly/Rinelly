@@ -20,38 +20,26 @@
 ```javascript
 
 const rinelly = {
-
   localização: "Maceió - AL",
-
   formação: "Análise e Desenvolvimento de Sistemas",
-
   pós_graduação: "Ciência de Dados e IA",
 
   atuando_com: [
-
     "Front-end",
-
     "Interfaces modernas",
-
     "Experiência do usuário"
-
   ],
 
   estudando: [
-
     "Python",
-
     "Data Science",
-
     "Inteligência Artificial"
-
   ],
 
   objetivo: "Criar soluções modernas e intuitivas"
-
 }
-
 ```
+
 </div>
   
 <br>
